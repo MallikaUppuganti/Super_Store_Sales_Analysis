@@ -1,4 +1,4 @@
-# 📊 Super Store Sales Analysis
+# 🛒 Super Store Sales Analysis
 
 
 ## 📌 Project Overview
@@ -15,7 +15,7 @@ As a Data Analyst, I led the end-to-end workflow, from raw data cleaning and tra
 
 * Visualize key profitability drivers to assist decision-making
 
-## Dashboard
+## 📊Dashboard
 
 ![image](https://github.com/MallikaUppuganti/Super_Store_Sales_Analysis/blob/main/Sales%20Analytics%20Dashboard.jpg)
 
