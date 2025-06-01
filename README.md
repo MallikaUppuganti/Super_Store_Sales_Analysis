@@ -15,6 +15,10 @@ As a Data Analyst, I led the end-to-end workflow, from raw data cleaning and tra
 
 * Visualize key profitability drivers to assist decision-making
 
+## Dashboard
+
+![image](https://github.com/MallikaUppuganti/Super_Store_Sales_Analysis/blob/main/Sales%20Analytics%20Dashboard.jpg)
+
 ## 📈 Dashboard Highlights
 * **Shipment Mode Analysis:** Revealed that 74% of orders use Regular Air, offering insights for logistics optimization.
 
